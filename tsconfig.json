@@ -19,7 +19,6 @@
     "strictNullChecks": false,
     "target": "es2017",
     "types": [],
-    "lib": ["ESNext.AsyncIterable"],
   },
   "include": ["src/*"]
 }
